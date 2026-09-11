@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "name": "Spider-Man",
+    "image": "https://imgtrump.netlify.app/spiderman.webp",
+    "rank": "1",
+    "power": "99000",
+    "height": "6' 2\"",
+    "weight": "285 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 2,
+    "name": "Captain America",
+    "image": "https://imgtrump.netlify.app/captainamerica.webp",
+    "rank": "2",
+    "power": "98000",
+    "height": "7' 2\"",
+    "weight": "253 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 3,
+    "name": "Daredevil",
+    "image": "https://imgtrump.netlify.app/daredevils.webp",
+    "rank": "3",
+    "power": "97000",
+    "height": "6' 5\"",
+    "weight": "275 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 4,
+    "name": "Green Goblin",
+    "image": "https://imgtrump.netlify.app/greengoblin.webp",
+    "rank": "8",
+    "power": "92000",
+    "height": "6'",
+    "weight": "191 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 5,
+    "name": "Doctor Octopus",
+    "image": "https://imgtrump.netlify.app/doctoroctopus.webp",
+    "rank": "9",
+    "power": "91000",
+    "height": "5' 10\"",
+    "weight": "229 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 6,
+    "name": "Spider Girl",
+    "image": "https://imgtrump.netlify.app/spidergirl.webp",
+    "rank": "6",
+    "power": "94000",
+    "height": "5' 8\"",
+    "weight": "147 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 7,
+    "name": "Mr. M",
+    "image": "https://imgtrump.netlify.app/mrm.webp",
+    "rank": "34",
+    "power": "76000",
+    "height": "7' ",
+    "weight": "326 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 8,
+    "name": "Hulk",
+    "image": "https://imgtrump.netlify.app/hulk.webp",
+    "rank": "10",
+    "power": "90000",
+    "height": "14' 11\"",
+    "weight": "953 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 9,
+    "name": "Venom",
+    "image": "https://imgtrump.netlify.app/venom.webp",
+    "rank": "14",
+    "power": "84000",
+    "height": "13' 8\"",
+    "weight": "856 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 10,
+    "name": "Black Cobra",
+    "image": "https://imgtrump.netlify.app/blackcobra.webp",
+    "rank": "28",
+    "power": "72000",
+    "height": "6' 2\"",
+    "weight": "245 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 11,
+    "name": "The Torch",
+    "image": "https://imgtrump.netlify.app/thetorch.webp",
+    "rank": "17",
+    "power": "83000",
+    "height": "7' 5\"",
+    "weight": "210 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 12,
+    "name": "Electro",
+    "image": "https://imgtrump.netlify.app/electro.webp",
+    "rank": "23",
+    "power": "77000",
+    "height": "6' 4\"",
+    "weight": "245 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 13,
+    "name": "Sandman",
+    "image": "https://imgtrump.netlify.app/sandman.webp",
+    "rank": "15",
+    "power": "85000",
+    "height": "14' 1\"",
+    "weight": "891 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 14,
+    "name": "She Hulk",
+    "image": "https://imgtrump.netlify.app/shehulk.webp",
+    "rank": "7",
+    "power": "93000",
+    "height": "6' ",
+    "weight": "225 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 15,
+    "name": "Doctor Spectrum",
+    "image": "https://imgtrump.netlify.app/drspectrum.webp",
+    "rank": "25",
+    "power": "75000",
+    "height": "6' 4\"",
+    "weight": "240 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 16,
+    "name": "Fiona Avery",
+    "image": "https://imgtrump.netlify.app/fionaavery.webp",
+    "rank": "30",
+    "power": "52000",
+    "height": "5' 8\"",
+    "weight": "145 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 17,
+    "name": "Devil Fish",
+    "image": "https://imgtrump.netlify.app/devilfish.webp",
+    "rank": "47",
+    "power": "56000",
+    "height": "5' 9\"",
+    "weight": "168 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 18,
+    "name": " Lizard",
+    "image": "https://imgtrump.netlify.app/lizard.webp",
+    "rank": "16",
+    "power": "84000",
+    "height": "7' 2\"",
+    "weight": "510 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 19,
+    "name": "Namor",
+    "image": "https://imgtrump.netlify.app/namor.webp",
+    "rank": "46",
+    "power": "53000",
+    "height": "5' 9\"",
+    "weight": "197 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 20,
+    "name": "Thor",
+    "image": "https://imgtrump.netlify.app/thor.webp",
+    "rank": "26",
+    "power": "74000",
+    "height": "6' \"",
+    "weight": "220 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 21,
+    "name": "Thanos",
+    "image": "https://imgtrump.netlify.app/thanos.webp",
+    "rank": "22",
+    "power": "78000",
+    "height": "7'",
+    "weight": "498 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 22,
+    "name": "Dr. Doom",
+    "image": "https://imgtrump.netlify.app/drdoom.webp",
+    "rank": "35",
+    "power": "66000",
+    "height": "7' 1\"",
+    "weight": "326 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 23,
+    "name": "Power Princess",
+    "image": "https://imgtrump.netlify.app/powerprincess.webp",
+    "rank": "35",
+    "power": "62000",
+    "height": "5' 3\"",
+    "weight": "158 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 24,
+    "name": "Fire Boy",
+    "image": "https://imgtrump.netlify.app/fireboy.webp",
+    "rank": "30",
+    "power": "70000",
+    "height": "6' 2\"",
+    "weight": "285 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 25,
+    "name": "Rouge",
+    "image": "https://imgtrump.netlify.app/rouge.webp",
+    "rank": "33",
+    "power": "67000",
+    "height": "5' 2\"",
+    "weight": "171 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 26,
+    "name": "Mr Jumbo",
+    "image": "https://imgtrump.netlify.app/mrjumbo.webp",
+    "rank": "19",
+    "power": "81000",
+    "height": "12' 8\"",
+    "weight": "762 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 27,
+    "name": "Iron Man",
+    "image": "https://imgtrump.netlify.app/ironman.webp",
+    "rank": "4",
+    "power": "96000",
+    "height": "7' 10\"",
+    "weight": "328 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 28,
+    "name": "FOE",
+    "image": "https://imgtrump.netlify.app/foe.webp",
+    "rank": "45",
+    "power": "54000",
+    "height": "5' 6\"",
+    "weight": "152 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 29,
+    "name": "Venus",
+    "image": "https://imgtrump.netlify.app/venus.webp",
+    "rank": "36",
+    "power": "64000",
+    "height": "6' 2\"",
+    "weight": "213 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 30,
+    "name": "Ant Man",
+    "image": "https://imgtrump.netlify.app/antman.webp",
+    "rank": "49",
+    "power": "50000",
+    "height": "5' 6\"",
+    "weight": "165 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 31,
+    "name": "Wolverine",
+    "image": "https://imgtrump.netlify.app/wolverine.webp",
+    "rank": "44",
+    "power": "55000",
+    "height": "6' 1\"",
+    "weight": "283 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 32,
+    "name": "Loki",
+    "image": "https://imgtrump.netlify.app/loki.webp",
+    "rank": "42",
+    "power": "57000",
+    "height": "6' 4\"",
+    "weight": "295 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 33,
+    "name": "Excalibur",
+    "image": "https://imgtrump.netlify.app/excalibur.webp",
+    "rank": "50",
+    "power": "49000",
+    "height": "6' 1\"",
+    "weight": "243 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 34,
+    "name": "Alien Plodex",
+    "image": "https://imgtrump.netlify.app/alienplodex.webp",
+    "rank": "39",
+    "power": "61000",
+    "height": "9' 3\"",
+    "weight": "651 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 35,
+    "name": "Vulture",
+    "image": "https://imgtrump.netlify.app/vulture.webp",
+    "rank": "31",
+    "power": "69000",
+    "height": "6' ",
+    "weight": "220 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 36,
+    "name": "Electra",
+    "image": "https://imgtrump.netlify.app/electra.webp",
+    "rank": "53",
+    "power": "46000",
+    "height": "5' 1\"",
+    "weight": "160 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 37,
+    "name": "Cable",
+    "image": "https://imgtrump.netlify.app/cable.webp",
+    "rank": "11",
+    "power": "89000",
+    "height": "6' 1\"",
+    "weight": "240 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 38,
+    "name": "Mystique",
+    "image": "https://imgtrump.netlify.app/mystique.webp",
+    "rank": "21",
+    "power": "79000",
+    "height": "5' 8\"",
+    "weight": "160 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 39,
+    "name": "Iron Fist",
+    "image": "https://imgtrump.netlify.app/ironfist.webp",
+    "rank": "5",
+    "power": "95000",
+    "height": "6' 4\"",
+    "weight": "240 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 40,
+    "name": "Emma Frost",
+    "image": "https://imgtrump.netlify.app/juggernaut.webp",
+    "rank": "41",
+    "power": "58000",
+    "height": "8' ",
+    "weight": "627 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 41,
+    "name": "X-Statix",
+    "image": "https://imgtrump.netlify.app/xstatix.webp",
+    "rank": "54",
+    "power": "45000",
+    "height": "4' 7\"",
+    "weight": "90 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 42,
+    "name": "X-Force",
+    "image": "https://imgtrump.netlify.app/xforce.webp",
+    "rank": "48",
+    "power": "51000",
+    "height": "6' 4\"",
+    "weight": "283 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 43,
+    "name": "Exiles",
+    "image": "https://imgtrump.netlify.app/exiles.webp",
+    "rank": "27",
+    "power": "73000",
+    "height": "5' 3\"",
+    "weight": "150 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 44,
+    "name": "Xorn",
+    "image": "https://imgtrump.netlify.app/xorn.webp",
+    "rank": "40",
+    "power": "59000",
+    "height": "6' 3\"",
+    "weight": "288 lbs",
+    "hv": "V"
+  },
+  {
+    "id": 45,
+    "name": "Black Cat",
+    "image": "https://imgtrump.netlify.app/blackcat.webp",
+    "rank": "34",
+    "power": "66000",
+    "height": "5' 8\"",
+    "weight": "160 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 46,
+    "name": "Falcon",
+    "image": "https://imgtrump.netlify.app/falcon.webp",
+    "rank": "20",
+    "power": "80000",
+    "height": "6' 2\"",
+    "weight": "258 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 47,
+    "name": "Dare Devil Girl",
+    "image": "https://imgtrump.netlify.app/daredevilgirl.webp",
+    "rank": "10",
+    "power": "82000",
+    "height": "5' 8\"",
+    "weight": "160 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 48,
+    "name": "Silver Surfer",
+    "image": "https://imgtrump.netlify.app/silversurfer.webp",
+    "rank": "12",
+    "power": "88000",
+    "height": "6' 3\"",
+    "weight": "250 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 49,
+    "name": "Gambit",
+    "image": "https://imgtrump.netlify.app/gambit.webp",
+    "rank": "29",
+    "power": "71000",
+    "height": "6' 4\"",
+    "weight": "250 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 50,
+    "name": "Captain Marvel",
+    "image": "https://imgtrump.netlify.app/captainmarvel.webp",
+    "rank": "13",
+    "power": "87000",
+    "height": "6' 4\"",
+    "weight": "283 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 51,
+    "name": "Punisher",
+    "image": "https://imgtrump.netlify.app/punisher.webp",
+    "rank": "37",
+    "power": "63000",
+    "height": "6' 2\"",
+    "weight": "228 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 52,
+    "name": "Hammer",
+    "image": "https://imgtrump.netlify.app/hammer.webp",
+    "rank": "52",
+    "power": "47000",
+    "height": "6' 10\"",
+    "weight": "330 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 53,
+    "name": "Mask",
+    "image": "https://imgtrump.netlify.app/mask.webp",
+    "rank": "51",
+    "power": "48000",
+    "height": "5' 9\"",
+    "weight": "200 lbs",
+    "hv": "H"
+  },
+  {
+    "id": 54,
+    "name": "Warrior",
+    "image": "https://imgtrump.netlify.app/warrior.webp",
+    "rank": "32",
+    "power": "68000",
+    "height": "6' 1\"",
+    "weight": "259 lbs",
+    "hv": "H"
+  }
+]
