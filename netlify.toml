@@ -1,0 +1,6 @@
+[build]
+  # Empty publish folder mat rakhna, '.' ka matlab current folder hai
+  publish = "."
+
+[[plugins]]
+  package = "netlify-plugin-image-optim"
